@@ -1,8 +1,10 @@
-# Make executable
+# Make file executable
 
 ## Overview
 
-This is a simple Sublime Text 3 package that adds a hotkey and command to set the executable bit on the current file.
+This is a simple Sublime Text 3 package that adds a hotkey and command to set the executable bit on the current file. 
+
+For an automatic solution make sure to check out [SublimeMakeExecutable](https://github.com/cockscomb/SublimeMakeExecutable).
 
 ## Usage
 
