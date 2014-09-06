@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Make file executable",
+        "command": "make_file_executable"
+    }
+]
